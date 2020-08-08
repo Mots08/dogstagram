@@ -1,0 +1,8 @@
+crear carpeta
+inicializar git 
+inicializar npm
+instalar svelte (npm install svelte --save) **Se agrega --save porque es una dependencia de desarrollo**
+instalar babel con todos sus componentes (npm install @babel/core @babel/preset-env @babel/polyfill babel-loader svelte-loader --save-dev)
+crear el archivo de configuración de babel
+instalar webpack (npm install webpack webpack-cli html-webpack-plugin --save-dev)
+crear el archivo de configuración de webpack y añadir las propiedades correspondientes
