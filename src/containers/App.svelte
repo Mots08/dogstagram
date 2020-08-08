@@ -37,5 +37,4 @@
 <Main>
   <TimeLine posts={data.posts} />
   <Sidebar {...data.user} />
-  
 </Main>
